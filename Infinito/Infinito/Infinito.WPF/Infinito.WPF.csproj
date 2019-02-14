@@ -119,7 +119,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Infinito\Infinito\Infinito.csproj">
+    <ProjectReference Include="..\Infinito\Infinito.csproj">
       <Project>{7cddcbdb-061a-4643-a021-996f29ad6a9d}</Project>
       <Name>Infinito</Name>
     </ProjectReference>

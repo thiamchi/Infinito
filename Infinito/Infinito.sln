@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinito.UWP", "Infinito\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infinito", "Infinito\Infinito\Infinito.csproj", "{7CDDCBDB-061A-4643-A021-996F29AD6A9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinito.WPF", "Infinito.WPF\Infinito.WPF.csproj", "{4DA63540-16A0-46DC-A9F7-2A3ED80F6C8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinito.WPF", "Infinito\Infinito.WPF\Infinito.WPF.csproj", "{4DA63540-16A0-46DC-A9F7-2A3ED80F6C8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
